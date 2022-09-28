@@ -3,3 +3,9 @@
     padding:0;
     box-sizing: border-box;
 }
+
+.nav {
+    border:1px solid black;
+    color:white;
+    background-color:hsl(218, 28%, 13%);
+}
