@@ -7,13 +7,15 @@
 body {
     background-image:url(images/bg-curvy-desktop.svg);
     background-repeat: no-repeat;
-    position:relative;
     background-position:bottom;
     background-size: contain;
     border:1px solid red;
     height:100vh;
     background-color:hsl(217, 28%, 15%);
     color:white;
+    font-family: 'Open Sans', sans-serif;
+
+
 
 }
 
@@ -26,7 +28,7 @@ body {
 /* Navigation */
 .nav {
     color:white;
-    background-color:hsl(217, 28%, 15%));
+    background-color:hsl(217, 28%, 15%);
     display:flex;
     align-items: center;
     height:9vh;
