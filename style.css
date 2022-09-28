@@ -14,6 +14,7 @@
 }
 .nav > img {
     height: 6vh;
+    padding-left:7vw;
 }
 .nav > ul {
     display:flex;
@@ -22,5 +23,5 @@
     justify-content: flex-end;
     width:100%;
     gap:35px;
-    padding-right:8vw;
+    padding-right:7vw;
 }
