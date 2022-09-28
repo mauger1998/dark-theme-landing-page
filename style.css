@@ -51,7 +51,7 @@ body {
 /*Main*/
 
 main > img {
-    width:55vw;
+    width:40vw;
     
 }
 .main {
@@ -61,7 +61,7 @@ main > img {
     align-items: center;
 }
 .text {
-    width:60vw;
+    width:45vw;
     text-align:center;
     display:flex;
     flex-direction: column;
@@ -78,4 +78,11 @@ main > button {
     color:white;
     font-family: 'Raleway', sans-serif;
 
+
+}
+
+main > button:hover {
+    background-image: linear-gradient(rgb(143, 217, 235), rgb(75, 143, 183));
+    cursor: pointer;
+    
 }
