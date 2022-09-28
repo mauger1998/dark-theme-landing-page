@@ -66,5 +66,16 @@ main > img {
     display:flex;
     flex-direction: column;
     gap:25px;
-    
+}
+
+main > button {
+    padding:1.5vw 8vw;
+    border-radius:50px;
+    text-align: center;
+    outline:none;
+    border:none;
+    background-image: linear-gradient(rgb(114, 181, 197), rgb(37, 135, 191));
+    color:white;
+    font-family: 'Raleway', sans-serif;
+
 }
