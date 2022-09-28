@@ -52,8 +52,8 @@ body {
 /*Main*/
 
 main > img {
-    width:500px;
-    padding-top:30px;
+    width:55vw;
+    
 }
 .main {
     display:flex;
