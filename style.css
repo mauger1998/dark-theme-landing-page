@@ -53,6 +53,7 @@ body {
 
 main > img {
     width:500px;
+    padding-top:30px;
 }
 .main {
     display:flex;
